@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115825786704",
+    "project_id": "swarasadhana-e4c16",
+    "storage_bucket": "swarasadhana-e4c16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115825786704:android:f35376d2683503c4923655",
+        "android_client_info": {
+          "package_name": "com.swarasadhana.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuZeawchg1FjfEuqKzyofcln0nnrFBBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115825786704:android:a6029944654b2052923655",
+        "android_client_info": {
+          "package_name": "com.swarasadhana.swarasadhana_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuZeawchg1FjfEuqKzyofcln0nnrFBBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
